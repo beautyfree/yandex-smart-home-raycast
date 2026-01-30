@@ -1,6 +1,12 @@
+<div align="center">
+
 # Yandex Smart Home — Raycast Extension
 
+<img src="assets/icon.png" alt="Extension icon" width="128" height="128" />
+
 Control Yandex Smart Home devices and run scenarios from Raycast.
+
+</div>
 
 ## Commands
 
