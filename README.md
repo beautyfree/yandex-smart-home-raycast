@@ -14,12 +14,12 @@ Control Yandex Smart Home devices and run scenarios from Raycast.
 
 <table>
   <tr>
-    <td align="center"><img src="assets/Raycast%202026-01-30%20at%2020.10.44.png" width="400" alt="Search Devices" /></td>
-    <td align="center"><img src="assets/yandex-smart-home%202026-01-30%20at%2020.11.28.png" width="400" alt="Devices list" /></td>
+    <td align="center"><img src="metadata/Raycast%202026-01-30%20at%2020.10.44.png" width="400" alt="Search Devices" /></td>
+    <td align="center"><img src="metadata/yandex-smart-home%202026-01-30%20at%2020.11.28.png" width="400" alt="Devices list" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/yandex-smart-home%202026-01-30%20at%2020.12.24.png" width="400" alt="Device detail" /></td>
-    <td align="center"><img src="assets/yandex-smart-home%202026-01-30%20at%2020.12.48.png" width="400" alt="Scenarios" /></td>
+    <td align="center"><img src="metadata/yandex-smart-home%202026-01-30%20at%2020.12.24.png" width="400" alt="Device detail" /></td>
+    <td align="center"><img src="metadata/yandex-smart-home%202026-01-30%20at%2020.12.48.png" width="400" alt="Scenarios" /></td>
   </tr>
 </table>
 
