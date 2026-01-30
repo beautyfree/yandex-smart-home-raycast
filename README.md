@@ -6,31 +6,10 @@
 
 Control Yandex Smart Home devices and run scenarios from Raycast.
 
-  <p>
-    <a href="https://www.raycast.com/devall/yandex-smart-home">
-      <img src="https://img.shields.io/badge/Raycast-store-red.svg"
-        alt="Find this extension on the Raycast store"
-      />
-    </a>
-    <a
-      href="https://github.com/raycast/extensions/blob/master/LICENSE"
-    >
-      <img
-        src="https://img.shields.io/badge/license-MIT-blue.svg"
-        alt="raycast-extensions is released under the MIT license."
-      />
-    </a>
-    <img
-      src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"
-      alt="PRs welcome!"
-    />
-    <a href="https://twitter.com/intent/follow?screen_name=netebe">
-      <img
-        src="https://img.shields.io/twitter/follow/netebe.svg?label=Follow%20@netebe"
-        alt="Follow @netebe"
-      />
-    </a>
-  </p>
+[![Raycast Store](https://img.shields.io/badge/Raycast-store-red.svg)](https://www.raycast.com/devall/yandex-smart-home)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/raycast/extensions/blob/master/LICENSE)
+![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+[![Follow @netebe](https://img.shields.io/twitter/follow/netebe.svg?label=Follow%20@netebe)](https://twitter.com/intent/follow?screen_name=netebe)
 
 </div>
 
